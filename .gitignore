@@ -1,0 +1,9 @@
+.claude/
+.sixth/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+~$*
